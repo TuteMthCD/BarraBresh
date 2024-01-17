@@ -12,7 +12,7 @@ void setup() {
     pinMode(BUILTIN_LED, OUTPUT);
     digitalWrite(BUILTIN_LED, 0); // enciende con 0 wtf
     
-   //pinMode(BUTTON_WHITE,INPUT_PULLUP);
+    pinMode(BUTTON_WHITE,INPUT_PULLUP);
     pinMode(BUTTON_YELLOW,INPUT_PULLUP);
     pinMode(BUTTON_GREEN,INPUT_PULLUP);
     pinMode(BUTTON_BLUE,INPUT_PULLUP);

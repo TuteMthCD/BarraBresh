@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <FastLED.h>
 
-#define BUTTON_WHITE 15
+#define BUTTON_WHITE 13
 #define BUTTON_YELLOW 2
 #define BUTTON_GREEN 0
 #define BUTTON_BLUE 5
